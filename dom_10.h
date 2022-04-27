@@ -1,5 +1,5 @@
-#ifndef DOM_9
-#define DOM_9
+#ifndef DOM_10
+#define DOM_10
 #include <iostream>
 using namespace std;
 
